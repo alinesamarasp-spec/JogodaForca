@@ -57,4 +57,4 @@ Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo [LICEN
 
 ---
 
-Feito com muito amor e código por **[Seu Nome/Username]**! ✨
+Feito com muito amor e código por *[*Aline Samara]**! ✨
